@@ -8,24 +8,26 @@ A marketing agency aims to maximize the ROI for its clients' advertising campaig
 Which ad platform is more effective in terms of conversions, clicks, and overall cost-effectiveness?
 
 ## Data
-The dataset, marketing_campaign.csv, contains daily performance metrics for the two ad campaigns conducted throughout 2019. Each row represents a single day, resulting in 365 observations.
+The dataset used for this analysis contains daily performance metrics for two digital marketing campaigns—one on Facebook and one on Google AdWords—for the entire 2019 calendar year (365 observations). Each row represents a single day and includes the following key metrics for each platform:
 
-### Key Data Columns:
+* Ad Clicks: The total number of clicks on the ad.
 
-* Date: The date of the observation.
+* Ad Conversions: The total number of conversions resulting from the ad.
 
-* Facebook Ad Clicks: Number of clicks on Facebook ads.
+* Ad Cost: The total daily cost for the ad campaign.
 
-* Facebook Ad Cost: Total cost of Facebook ads for the day.
+The analysis focuses on these core metrics to compare campaign performance and determine overall cost-effectiveness.
 
-* Facebook Ad Conversions: Number of conversions from Facebook ads.
+This analysis was conducted using Python within a Jupyter Notebook environment. The project leveraged several key libraries for data science and machine learning:
 
-* AdWords Ad Clicks: Number of clicks on AdWords ads.
++ **Data Manipulation & Analysis**: Pandas and NumPy were used for data handling, cleaning, and transformation.
 
-* AdWords Ad Cost: Total cost of AdWords ads for the day.
++ **Data Visualization**: Matplotlib and Seaborn were employed to create statistical charts and graphs.
 
-* AdWords Ad Conversions: Number of conversions from AdWords ads.
++ **Statistical Analysis & Modeling**: The SciPy library was utilized for hypothesis testing. Statsmodels was used for time-series analysis, including cointegration tests.
 
++ **Machine Learning**: Scikit-learn was implemented for building and evaluating the linear regression model.
++ 
 ## Methodology
 The analysis was conducted in a Jupyter Notebook (Marketing Campaign Analysis.ipynb). The methodology follows a structured approach, from data exploration to statistical inference.
 
