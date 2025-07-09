@@ -27,7 +27,7 @@ This analysis was conducted using Python within a Jupyter Notebook environment. 
 + **Statistical Analysis & Modeling**: The SciPy library was utilized for hypothesis testing. Statsmodels was used for time-series analysis, including cointegration tests.
 
 + **Machine Learning**: Scikit-learn was implemented for building and evaluating the linear regression model.
-+ 
+
 ## Methodology
 The analysis was conducted in a Jupyter Notebook (Marketing Campaign Analysis.ipynb). The methodology follows a structured approach, from data exploration to statistical inference.
 
