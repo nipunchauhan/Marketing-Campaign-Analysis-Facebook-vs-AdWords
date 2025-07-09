@@ -7,7 +7,7 @@ A marketing agency aims to maximize the ROI for its clients' advertising campaig
 ### Research Question
 Which ad platform is more effective in terms of conversions, clicks, and overall cost-effectiveness?
 
-## Data
+### Data
 The dataset used for this analysis contains daily performance metrics for two digital marketing campaigns—one on Facebook and one on Google AdWords—for the entire 2019 calendar year (365 observations). Each row represents a single day and includes the following key metrics for each platform:
 
 * Ad Clicks: The total number of clicks on the ad.
