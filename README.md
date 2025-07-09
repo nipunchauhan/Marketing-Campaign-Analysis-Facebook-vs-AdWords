@@ -39,7 +39,7 @@ The analysis was conducted in a Jupyter Notebook (Marketing Campaign Analysis.ip
 
 * Correlation analysis between cost, clicks, and conversions for each platform.
 
-### Hypothesis Testing (A/B Test):
+### Hypothesis Testing:
 
 * A formal hypothesis test was conducted to determine if there is a statistically significant difference in the conversion rates between the Facebook and AdWords campaigns.
 
